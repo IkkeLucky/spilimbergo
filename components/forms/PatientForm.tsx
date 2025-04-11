@@ -60,8 +60,8 @@ const PatientForm = () => {
     <Form {...form}>
         <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6 flex-1">
             <section className="mb-12 space-y-4">
-                <h1 className="header">Ciao!</h1>
-                <p className="text-dark-700">Benvenuto al sistema Farewell di INSERIRE NOME SALME</p>
+                <h1 className="header">Ciao</h1>
+                <p className="text-dark-700">Benvenuto al sistema Farewell di Spilimbergo</p>
             </section>
 
             <CustomFormField 
